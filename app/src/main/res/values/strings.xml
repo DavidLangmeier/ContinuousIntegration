@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ContinuousIntegration</string>
+    <string name="randomButton">randomButton</string>
 </resources>
